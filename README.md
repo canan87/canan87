@@ -1,4 +1,4 @@
- 👋Hello! I'm Canan ÖZTEKIN KAYNAR. I am a software teacher who is passionate about software development, open to learning and always trying to improve. I like to produce innovative ideas, follow technological developments and include these developments in my projects.
+ 👋Hello! I'm Canan ÖZTEKIN KAYNAR. I am a teacher who is passionate about software development, open to learning and always trying to improve. I like to produce innovative ideas, follow technological developments and include these developments in my projects.
  
 💻 The education I received in the field of computer science and the experience I gained in the software industry, where I worked part-time for 1 year, helped me solve problems with an analytical perspective and produce user-friendly solutions. Working on different platforms and technologies, I have gained a wide range of knowledge and skills. 
 
