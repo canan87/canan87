@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SarveshMankar/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer!;4%2B%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=193BF7&center=do%C4%9Fru&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&random=YANLI%C5%9E&width=435&lines=CANAN+%C3%96ZTEK%C4%B0N+KAYNAR" alt="Typing SVG" /></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 </p>
