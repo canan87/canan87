@@ -24,8 +24,9 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/sarvesh_mankar/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/mankarsarvesh251/">
-  <img src="https://img.shields.io/badge/-Hackerrank-00CC00?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.facebook.com/profile.php?id=594572001" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a> 
   <a href="https://auth.geeksforgeeks.org/user/sarveshmankar2543/">
   <img src="https://img.shields.io/badge/GeeksForGeeks-239120?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
