@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Dreams come true; without that possibility, nature would not incite us to have them.</h3 quote>
+<h3 quote align='center'>Software development is my passion and lifestyle. With my computer science education and one year of experience in the industry, I solve problems from an analytical perspective and create user-friendly solutions. I am open to innovations and value teamwork. In my free time, I follow technology blogs, contribute to open source projects and try new technologies. I look forward to being a partner in your success!</h3 quote>
 
 ---
 
