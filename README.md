@@ -53,9 +53,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/canan87"><img alt="Canan Github Stats" src="https://github-readme-stats.vercel.app/api?username=canan87&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/canan87"><img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canan87&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canan87&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+
+[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canan87&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
+
+<h3 align="center">Visitor's count</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{canan87}/count.svg/" alt="Sarvesh Mankar Visitor's count" /></p>
