@@ -46,3 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
     
 </p>
+
+## 🔥 GitHub stats:
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=canan87&theme=ambient-gradient&hide_border=do%C4%9Fru" alt="GitHub Streak" /></a>
