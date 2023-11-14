@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
     
 </p>
-![canan87's Stats](https://github-readme-stats.vercel.app/api?username=canan87&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🔥 GitHub stats:
 <p align="center">
