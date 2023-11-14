@@ -62,7 +62,7 @@
 </p>
 
 
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canan87&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
+[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canan87&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/canan87)
 
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{canan87}/count.svg/" alt="Sarvesh Mankar Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{canan87}/count.svg/" alt=" Visitor's count" /></p>
