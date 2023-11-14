@@ -46,10 +46,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
     
 </p>
+![canan87's Stats](https://github-readme-stats.vercel.app/api?username=canan87&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔥 GitHub stats:
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=canan87&theme=ambient-gradient&hide_border=do%C4%9Fru" alt="GitHub Streak" /></a>
+<a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api?username=canan87&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
+
 </p>
 
 <p align="center">
