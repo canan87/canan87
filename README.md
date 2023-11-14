@@ -48,5 +48,6 @@
 </p>
 
 ## 🔥 GitHub stats:
-
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=canan87&theme=ambient-gradient&hide_border=do%C4%9Fru" alt="GitHub Streak" /></a>
+</p>
