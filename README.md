@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canan87&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
-  <a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api?username=canan87&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
+  <a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canan87&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="180px"/></a>
+  <a href="https://github.com/canan87"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api?username=canan87&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="180px"/></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
